@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "vodaws",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authvodaws23dd75ac",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

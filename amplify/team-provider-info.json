@@ -1,0 +1,20 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vodaws-prod-180724-authRole",
+      "UnauthRoleArn": "arn:aws:iam::129741362643:role/amplify-vodaws-prod-180724-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::129741362643:role/amplify-vodaws-prod-180724-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-vodaws-prod-180724-deployment",
+      "UnauthRoleName": "amplify-vodaws-prod-180724-unauthRole",
+      "StackName": "amplify-vodaws-prod-180724",
+      "StackId": "arn:aws:cloudformation:us-east-2:129741362643:stack/amplify-vodaws-prod-180724/d3623730-338c-11ec-bc87-06a4ca70c832",
+      "AmplifyAppId": "d1aa5dqck82ol0"
+    },
+    "categories": {
+      "auth": {
+        "vodaws23dd75ac": {}
+      }
+    }
+  }
+}
